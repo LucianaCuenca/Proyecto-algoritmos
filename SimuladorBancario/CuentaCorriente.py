@@ -1,0 +1,5 @@
+class CuentaCorriente:
+        ''''--------------
+        #atributos
+        -----------------'''
+        saldo=""
